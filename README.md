@@ -14,11 +14,13 @@
 ### Screeshots
 
 <p>Desktop Version</p>
+
 ![Site Desktop Demo](assets/img/image.png "Desktop Demo")
 
 <p>Mobile Version</p>
-![Alt text](image.png)
+
 ![Site Mobile Version](assets/img/mobile.png "Mobile Demo")
+
 ### Contact
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/sammdevjs) or at [Linkedin](https://www.linkedin.com/in/samia-cunha)
