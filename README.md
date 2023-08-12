@@ -5,7 +5,7 @@
 
   This project is a responsive landing page <br />It was build using HTML, TailWindCSS, and JavaScript.
 
-  <a href="https://samxzhk.github.io/frontend-practice-websites/abstract-website"><strong>➥ Live Demo</strong></a>
+  <a href="https://samxzhk.github.io/abstract-website-clone"><strong>➥ Live Demo</strong></a>
 
 </div>
 
